@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OrderBookingSystem</string>
+    <string name="name">Enter your name!</string>
+    <string name="email">Enter your email!</string>
+    <string name="password">Enter your password!</string>
+    <string name="label">Ease your life!</string>
+    <string name="label_description">No need for order Booker and manual process any more.</string>
+    <string name="login">Log In</string>
+    <string name="start">Start</string>
+    <string name="logo_description">This is logo</string>
+
+
+    <!--    Margin code-->
+
+    <string name="margin_input_register">20dp</string>
+</resources>
