@@ -31,7 +31,7 @@
 
 
         <EditText
-            android:id="@+id/registerInputEmail"
+            android:id="@+id/signInInputEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
@@ -45,7 +45,7 @@
             android:textColor="@color/black" />
 
         <EditText
-            android:id="@+id/registerInputPassword"
+            android:id="@+id/signInInputPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
@@ -90,7 +90,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/signupBtn"
+        android:id="@+id/siginBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

@@ -1,5 +1,7 @@
 package com.example.orderbookingsystem;
 
+import static androidx.core.content.ContextCompat.startActivity;
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -38,7 +40,6 @@ public class SignupActivity extends AppCompatActivity {
                 createAccount(name, email, password);
             }
         });
-
         binding.gotoLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
